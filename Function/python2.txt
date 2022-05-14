@@ -1,0 +1,2 @@
+Python 2 is no more used 
+ Python 3 is more used in comparision of Python 2
